@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "red-black-tree", "red-black-tree\red-black-tree.vcproj", "{3664C8EA-2C82-490B-89C6-9D0C473A1CCA}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Win32 = Debug|Win32
+        Release|Win32 = Release|Win32
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {3664C8EA-2C82-490B-89C6-9D0C473A1CCA}.Debug|Win32.ActiveCfg = Debug|Win32
+        {3664C8EA-2C82-490B-89C6-9D0C473A1CCA}.Debug|Win32.Build.0 = Debug|Win32
+        {3664C8EA-2C82-490B-89C6-9D0C473A1CCA}.Release|Win32.ActiveCfg = Release|Win32
+        {3664C8EA-2C82-490B-89C6-9D0C473A1CCA}.Release|Win32.Build.0 = Release|Win32
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
